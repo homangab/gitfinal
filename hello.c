@@ -2,4 +2,4 @@
 void main(){
 printf("Helloworld!\n");
 }
-a.out
+
